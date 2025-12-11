@@ -20,3 +20,6 @@ JACOBI2D
 # Backup files
 *.bak
 *.tmp
+
+# Exercise handout
+NSSC1_jacobi2D.pdf
