@@ -1,0 +1,22 @@
+# Build artifacts
+/build/
+*.o
+
+# Executables
+JACOBI2D
+
+# Logs
+*.log
+
+# Editor/OS files
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Zone.Identifier (Windows metadata)
+*:Zone.Identifier
+
+# Backup files
+*.bak
+*.tmp
